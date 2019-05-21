@@ -1,0 +1,3 @@
+[run]
+source = mandirikupu2
+omit = mandirikupu2/test*
